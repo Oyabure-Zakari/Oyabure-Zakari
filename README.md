@@ -1,7 +1,8 @@
 # 👋Hi there! I'm Zakari
 🔭 I’m a Mobile App developer, I use React Native Expo to create Cross-platform Mobile Applications for iOS and Android devices. <br/>
 🌱 I’m learning advanced problem-solving techniques in JavaScript, TypeScript and refining my React Native skills. <br/>
-👯 I’m looking to collaborate on **cross-platform mobile apps**, **React Native projects**, or **full-stack applications**. <br><be> 💬 Ask me about **React Native, Expo, Zustand, TypeScript, and building user-friendly mobile apps**. <br/>
+👯 I’m looking to collaborate on **cross-platform mobile apps** or **React Native projects**. <br/>
+💬 Ask me about **React Native, Expo, Zustand, TypeScript, and building user-friendly mobile apps**. <br/>
 📫 How to reach me: [oyabure205@gmail.com ] <br/>
 😄 Pronouns: **He/Him** <br/>
 ⚡ Fun fact: I love combining technology with design, and I’m also passionate about exploring the intersection of agriculture and technology!🚜💻
