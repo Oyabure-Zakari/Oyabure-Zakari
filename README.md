@@ -1,6 +1,6 @@
 # 👋Hi there! I'm Zakari
 🔭 I’m a Mobile App developer, I use React Native Expo to create Cross-platform Mobile Applications for iOS and Android devices. <br/>
-🌱 I’m learning advanced problem-solving techniques in JavaScript, TypeScript and refining my React Native skills. <br/>
+🌱 I’m learning problem-solving techniques in JavaScript, TypeScript and refining my React Native skills. <br/>
 👯 I’m looking to collaborate on **cross-platform mobile apps** or **React Native projects**. <br/>
 💬 Ask me about **React Native, Expo, Zustand, TypeScript, and building user-friendly mobile apps**. <br/>
 📫 How to reach me: [oyabure205@gmail.com ] <br/>
