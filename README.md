@@ -1,10 +1,16 @@
 # 👋Hi there! I'm Zakari
-🔭 I’m a Mobile App developer, I use React Native Expo to create Cross-platform Mobile Applications for iOS and Android devices. <br/>
-🌱 I’m learning problem-solving techniques in JavaScript, TypeScript and refining my React Native skills. <br/>
-👯 I’m looking to collaborate on **cross-platform mobile apps** or **React Native projects**. <br/>
+📱 I’m a Mobile App developer, I use React Native Expo to create Cross-platform Mobile Applications for iOS and Android devices. <br/>
+
+🧠 I’m learning problem-solving techniques in JavaScript, TypeScript and refining my React Native skills. <br/>
+
+👥 I’m looking to collaborate on **cross-platform mobile apps** or **React Native projects**. <br/>
+
 💬 Ask me about **React Native, Expo, Zustand, TypeScript, and building user-friendly mobile apps**. <br/>
+
 📫 How to reach me: [oyabure205@gmail.com ] <br/>
-😄 Pronouns: **He/Him** <br/>
+
+👳‍♂️ Pronoun: **He/Him** <br/>
+
 ⚡ Fun fact: I love combining technology with design, and I’m also passionate about exploring the intersection of agriculture and technology!🚜💻
 
 
@@ -29,15 +35,6 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-### 🏢 Office
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-### 📝 Blog
-![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ### 🌐 Browsers
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
