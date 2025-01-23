@@ -1,5 +1,5 @@
-# Hi there! 👋
-🔭 I’m a Mobile App developer I use React Native Expo to create Cross-plaform Mobile Applications for both iOS and Andriod devices. <br><br>🌱 I’m currently learning advanced problem-solving techniques in JavaScript, TypeScript and refining my React Native skills.  <br><br>👯 I’m looking to collaborate on **cross-platform mobile apps**, **React Native projects**, or **full-stack applications**. 💬 Ask me about **React Native, Expo, Zustand, TypeScript, and building user-friendly mobile apps**.  <br><br>📫 How to reach me: [oyabure@gmail.com ] <br><br>😄 Pronouns: **He/Him** <br><br>⚡ Fun fact: I love combining technology with design, and I’m also passionate about exploring the intersection of agriculture and technology! 🚜💻<br>```<br><br>
+# 👋Hi there! I'm Zakari
+🔭 I’m a Mobile App developer I use React Native Expo to create Cross-plaform Mobile Applications for both iOS and Andriod devices. <br><br>🌱 I’m currently learning advanced problem-solving techniques in JavaScript, TypeScript and refining my React Native skills.  <br><br>👯 I’m looking to collaborate on **cross-platform mobile apps**, **React Native projects**, or **full-stack applications**. 💬 Ask me about **React Native, Expo, Zustand, TypeScript, and building user-friendly mobile apps**.  <br><br>📫 How to reach me: [oyabure205@gmail.com ] <br><br>😄 Pronouns: **He/Him** <br><br>⚡ Fun fact: I love combining technology with design, and I’m also passionate about exploring the intersection of agriculture and technology! 🚜💻
 
 
 ## 🌐 Socials
