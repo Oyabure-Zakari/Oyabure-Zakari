@@ -5,7 +5,7 @@
 
 👥 I’m looking to collaborate on **cross-platform mobile apps** or **React Native projects**. <br/>
 
-💬 Ask me about **React Native, Expo, Zustand, TypeScript, and building user-friendly mobile apps**. <br/>
+💬 Ask me about **React Native, Expo, Zustand, TypeScript, and JavaScript**. <br/>
 
 📫 How to reach me: [oyabure205@gmail.com ] <br/>
 
