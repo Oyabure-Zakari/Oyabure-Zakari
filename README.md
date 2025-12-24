@@ -1,20 +1,40 @@
-# 👋Hi there! I'm Zakari
-📱 I’m a Mobile App developer, I use React Native Expo to create Cross-platform Mobile Applications for iOS and Android devices. <br/>
-🧠 I’m learning problem-solving techniques in JavaScript, TypeScript and refining my React Native skills. <br/>
-👥 I’m looking to collaborate on **cross-platform mobile apps** or **React Native projects**. <br/>
-💬 Ask me about **React Native, Expo, Zustand, TypeScript, and JavaScript**. <br/>
-📫 How to reach me: [oyabure205@gmail.com ] <br/>
-👳‍♂️ Pronoun: **He/Him** <br/>
-⚡ Fun fact: I love combining technology with design, and I’m also passionate about exploring the intersection of agriculture and technology!🚜💻
+# Hi there 👋, I'm Oyabure Zakari
 
+**Full-Stack Mobile Developer | React Native | Expo | Firebase Enthusiast**
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/OyabureZakarii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oyabure205@gmail.com) 
+Welcome to my GitHub profile! I'm a passionate mobile developer focused on building clean, performant, and user-friendly apps with modern tools.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
+## 🚀 About Me
+
+- 🔭 Building cross-platform apps with React Native & Expo
+- 🌱 Always learning new technologies and best practices
+- ⚡ Love clean code, modular architecture, and great UX
+- 💬 Ask me about React Native, Expo, Firebase, or mobile app development
+- 📫 How to reach me: [oyabure205@gmail.com ] <br/>
+
+## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=oyabure-zakari&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oyabure-zakari&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 💻 Tech Stack & Tools
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=tanstack&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white)
+![React Native Reanimated](https://img.shields.io/badge/Reanimated-6C63FF?style=flat&logo=react&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF26BE?style=flat&logo=adobe-xd&logoColor=white)
+
+## 🌐 Socials:
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/https://x.com/OyabureZakarii) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oyabure205@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakari-oyabure-84933133b)
+
+Thanks for visiting! Open to collaborations and new opportunities 🚀
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
