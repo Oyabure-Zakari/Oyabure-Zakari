@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate mobile developer focused on build
 - 🔭 Building cross-platform apps with React Native & Expo
 - 🌱 Always learning new technologies and best practices
 - ⚡ Love clean code, modular architecture, and great UX
-- 💬 Ask me about React Native, Expo, Firebase, or mobile app development
+- 💬 Ask me about React Native, Expo, or mobile app development
 - 📫 How to reach me: [oyabure205@gmail.com ] <br/>
 
 ## 📊 GitHub Stats:
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate mobile developer focused on build
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF26BE?style=flat&logo=adobe-xd&logoColor=white)
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/https://x.com/OyabureZakarii) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oyabure205@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakari-oyabure-84933133b)
 
 Thanks for visiting! Open to collaborations and new opportunities 🚀
