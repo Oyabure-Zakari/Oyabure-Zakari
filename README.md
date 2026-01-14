@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Zakari
 
-**Cross-Platform Mobile Developer | React Native | Expo**
+**Cross-Platform Mobile App Developer | React Native | Expo**
 
 Welcome to my GitHub profile! I'm a passionate mobile developer focused on building clean, performant, and user-friendly apps with modern tools.
 
