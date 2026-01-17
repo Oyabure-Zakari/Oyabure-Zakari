@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a passionate mobile developer focused on build
 - 📫 How to reach me: [oyabure205@gmail.com ] <br/>
 
 ## 📊 GitHub Stats:
+
 ![](https://nirzak-streak-stats.vercel.app/?user=oyabure-zakari&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oyabure-zakari&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -35,6 +36,7 @@ Welcome to my GitHub profile! I'm a passionate mobile developer focused on build
 
 
 ## 🌐 Connect with Me:
+
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/https://x.com/OyabureZakarii) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oyabure205@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakari-oyabure-84933133b)
 
 Thanks for visiting! Open to collaborations and new opportunities 🚀
