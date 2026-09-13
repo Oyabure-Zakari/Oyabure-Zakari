@@ -1,6 +1,6 @@
 ![](https://pbs.twimg.com/profile_banners/1306301851030163456/1789256763/1500x500)
 
-# Hi, I'm Oyabure Zakari 👋
+# Hi, I'm Oyabure Zakari
 
 ### Software Developer | Web & Mobile | AI Agents
 
