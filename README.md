@@ -27,8 +27,6 @@ I bring a combination of **software development, product thinking, and domain kn
 
 ## 💼 Experience
 
-### Software Developer — Web, Mobile & AI
-
 I have experience building software products from **idea to implementation**, working across frontend web development, cross-platform mobile development, and backend service integration.
 
 My work involves:
