@@ -49,7 +49,7 @@ I particularly enjoy working on products where **technology needs to solve a rea
 
 ## 🚢 Shipped Products
 
-### 🌱 C4SEAS Interactive Soil Health & Fertilizer Recommendation Map
+### C4SEAS Interactive Soil Health & Fertilizer Recommendation Map
 
 An interactive web platform developed to help users explore **soil health information and crop-specific fertilizer recommendations** based on location.
 
@@ -65,6 +65,11 @@ The platform combines geospatial data, soil information, and interactive mapping
 * Interactive map interactions
 * Responsive web interface
 * Integration with backend data services
+
+**Technologies Used:**
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 🔗 **Live Web App:** [C4SEAS Interactive Map](https://c4seas-naerls-isfarm.vercel.app/)
 
@@ -90,7 +95,7 @@ Some of the concepts I'm actively working with include:
 * Context windows & token management
 * RAG and embeddings
 
-Rather than only learning the concepts theoretically, I prefer to **build projects and learn through implementation**.
+Rather than learning concepts only in theory, I prefer to **build projects and learn through implementation**.
 
 ---
 
