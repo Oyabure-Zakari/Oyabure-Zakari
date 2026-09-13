@@ -1,36 +1,116 @@
 ![](https://pbs.twimg.com/profile_banners/1306301851030163456/1789256763/1500x500)
 
-# Hi there 👋, I'm Oyabure Zakari
+# Hi, I'm Oyabure Zakari 👋
 
 ### Software Developer | Web & Mobile | AI Agents
 
-I build software products across the web and mobile, and I'm currently expanding into AI agent development.
+I build software products across **web, mobile, and AI**, turning ideas and real-world problems into practical, user-focused applications. I don't just enjoy building software; I enjoy using technology to solve problems in domains I understand.
 
-I enjoy turning ideas into practical, user-focused applications using modern technologies and tools.
+Currently, I'm expanding my work into **AI agent development**, exploring LLMs, structured outputs, tool calling, evaluation, workflows, and graph-based agent systems with LangChain and LangGraph.
 
-## 🚀 About Me
+---
 
-* 🌐 Building web applications with React, JavaScript & TypeScript
-* 📱 Building cross-platform mobile applications with React Native & Expo
-* 🤖 Learning and building AI agents with LangChain & LangGraph
-* 🔌 Integrating backend services and APIs using Supabase, Firebase & REST APIs
-* ⚡ Interested in clean code, modular architecture, performance & great UX
-* 🌱 Continuously learning and improving my software development skills
-* 💬 Ask me about React, React Native, Expo, TypeScript, or AI agents
-* 📫 How to reach me: [oyabure205@gmail.com](mailto:oyabure205@gmail.com)
+## 🚀 What I Bring
+
+I bring a combination of **software development, product thinking, and domain knowledge**.
+
+* 🧩 **Product Development** — turning ideas and requirements into functional software products
+* 🌐 **Web Development** — building responsive, interactive applications with React, JavaScript & TypeScript
+* 📱 **Mobile Development** — building cross-platform applications with React Native & Expo
+* 🤖 **AI Development** — building and experimenting with AI agents, LLM workflows, structured outputs, and evaluations
+* 🔌 **Backend Integration** — connecting applications to services such as Supabase, Firebase, and REST APIs
+* 🎯 **Problem Solving** — understanding the problem first, then choosing the right technical approach
+* ⚡ **User Experience** — building interfaces that are practical, responsive, and easy to use
+* 🌱 **Continuous Learning** — constantly improving my engineering skills and exploring new technologies
+
+---
+
+## 💼 Experience
+
+### Software Developer — Web, Mobile & AI
+
+I have experience building software products from **idea to implementation**, working across frontend web development, cross-platform mobile development, and backend service integration.
+
+My work involves:
+
+* Designing and developing web and mobile interfaces
+* Integrating databases, authentication, and backend services
+* Working with APIs and third-party services
+* Managing application state and server state
+* Building location-based and data-driven applications
+* Working with geospatial data and interactive maps
+* Developing AI-agent workflows and LLM-powered applications
+* Using Git and GitHub for version control and collaboration
+* Translating real-world requirements into usable software
+
+I particularly enjoy working on products where **technology needs to solve a real problem**, rather than building technology for its own sake.
+
+---
+
+## 🚢 Shipped Products
+
+### 🌱 C4SEAS Interactive Soil Health & Fertilizer Recommendation Map
+
+An interactive web platform developed to help users explore **soil health information and crop-specific fertilizer recommendations** based on location.
+
+The platform combines geospatial data, soil information, and interactive mapping to make agricultural data easier to explore and use.
+
+**What I worked on:**
+
+* Interactive soil health map
+* Location-based data visualization
+* Geospatial data processing
+* Soil sample visualization
+* Crop-based fertilizer recommendations
+* Interactive map interactions
+* Responsive web interface
+* Integration with backend data services
+
+🔗 **Live Web App:** [C4SEAS Interactive Map](https://c4seas-naerls-isfarm.vercel.app/)
+
+> Built as part of the C4SEAS initiative to connect farmers and extension services with actionable crop and soil health information.
+
+---
+
+## 🤖 Currently Building With AI
+
+I'm currently deepening my understanding of **AI agent development** by building projects with LangChain and LangGraph.
+
+Some of the concepts I'm actively working with include:
+
+* LLM reasoning
+* AI agent workflows
+* Graph-based agent architectures
+* Structured outputs & JSON Schema
+* Tool calling
+* Agent evaluation
+* Node caching
+* State management
+* Recursion limits
+* Context windows & token management
+* RAG and embeddings
+
+Rather than only learning the concepts theoretically, I prefer to **build projects and learn through implementation**.
+
+---
 
 ## 🧠 What I Build
 
-**Web Applications**
-Building responsive and interactive web applications with modern frontend technologies.
+### 🌐 Web Applications
 
-**Mobile Applications**
-Building cross-platform mobile experiences with React Native and Expo.
+Building responsive and interactive web applications with **React, JavaScript, and TypeScript**, with a focus on usability, maintainability, and performance.
 
-**AI Agents**
-Exploring agentic AI by building systems with LLMs, structured outputs, tool calling, workflows, evaluation, and LangGraph.
+### 📱 Mobile Applications
 
-## 💻 Tech Stack & Tools
+Building cross-platform mobile applications with **React Native and Expo**, integrating APIs, authentication, databases, media services, and other backend capabilities.
+
+### 🤖 AI Agents
+
+Building and experimenting with AI-powered systems that can reason through tasks, follow structured workflows, use tools, and produce structured outputs.
+
+---
+
+## 💻 Tech Stack
 
 ### Languages & Frameworks
 
@@ -56,10 +136,24 @@ Exploring agentic AI by building systems with LLMs, structured outputs, tool cal
 ### Tools & Services
 
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat\&logo=cloudinary\&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat\&logo=clerk\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF26BE?style=flat\&logo=adobe-xd\&logoColor=white)
+
+---
+
+## 📌 What I'm Interested In
+
+I'm particularly interested in opportunities and projects involving:
+
+* Software product development
+* Web & mobile applications
+* AI agents and LLM applications
+* Developer tools
+* Agritech & technology for agriculture
+* Data-driven applications
+* Building products that solve real-world problems
+
+---
 
 ## 🌐 Connect With Me
 
@@ -69,6 +163,6 @@ Exploring agentic AI by building systems with LLMs, structured outputs, tool cal
 
 ---
 
-Thanks for visiting my profile! 🚀
+### 🚀 Always Building. Always Learning.
 
-I'm always open to interesting projects, collaborations, and opportunities to build useful software.
+I'm interested in collaborating with people who are building useful products, solving interesting problems, and pushing the boundaries of what software can do.
