@@ -14,14 +14,14 @@ Currently, I'm expanding my work into **AI agent development**, exploring LLMs, 
 
 I bring a combination of **software development, product thinking, and domain knowledge**.
 
-* 🧩 **Product Development** — turning ideas and requirements into functional software products
-* 🌐 **Web Development** — building responsive, interactive applications with React, JavaScript & TypeScript
-* 📱 **Mobile Development** — building cross-platform applications with React Native & Expo
-* 🤖 **AI Development** — building and experimenting with AI agents, LLM workflows, structured outputs, and evaluations
-* 🔌 **Backend Integration** — connecting applications to services such as Supabase, Firebase, and REST APIs
-* 🎯 **Problem Solving** — understanding the problem first, then choosing the right technical approach
-* ⚡ **User Experience** — building interfaces that are practical, responsive, and easy to use
-* 🌱 **Continuous Learning** — constantly improving my engineering skills and exploring new technologies
+* **Product Development** — turning ideas and requirements into functional software products
+* **Web Development** — building responsive, interactive applications with React, JavaScript & TypeScript
+* **Mobile Development** — building cross-platform applications with React Native & Expo
+* **AI Development** — building and experimenting with AI agents, LLM workflows, structured outputs, and evaluations
+* **Backend Integration** — connecting applications to services such as Supabase, Firebase, and REST APIs
+* **Problem Solving** — understanding the problem first, then choosing the right technical approach
+* **User Experience** — building interfaces that are practical, responsive, and easy to use
+* **Continuous Learning** — constantly improving my engineering skills and exploring new technologies
 
 ---
 
