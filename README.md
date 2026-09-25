@@ -2,7 +2,7 @@
 
 # Hi, I'm Oyabure Zakari
 
-### Software Developer▫️Web & Mobile | AI Agents
+### Software Developer | Web & Mobile ▫️ AI Agents
 
 I build software products across **web, mobile, and AI**, turning ideas and real-world problems into practical, user-focused applications. I don't just enjoy building software; I enjoy using technology to solve problems in domains I understand.
 
