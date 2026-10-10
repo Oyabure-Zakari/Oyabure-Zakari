@@ -1,4 +1,4 @@
-![](https://pbs.twimg.com/profile_banners/1306301851030163456/1789256763/1500x500)
+![](https://pbs.twimg.com/profile_banners/1306301851030163456/1791650120/1500x500)
 
 # Hi, I'm Oyabure Zakari 👋
 
