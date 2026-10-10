@@ -97,6 +97,7 @@ The goal isn't just to make an LLM respond.
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=api&logoColor=white)
 
 ### AI & Agent Development
